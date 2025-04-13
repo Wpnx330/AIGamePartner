@@ -1,0 +1,17 @@
+[AI]
+api_key = YOUR_API_KEY_HERE
+model = claude-3-opus-20240229
+
+[Overlay]
+width = 800
+height = 400
+font_family = Consolas
+font_size = 10
+font_weight = normal
+position = bottom-right
+visible_messages = 10
+background_alpha = 0.8
+
+[Screenshots]
+interval = 1.0
+max_screenshots = 10 
